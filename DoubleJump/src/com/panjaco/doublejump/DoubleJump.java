@@ -9,7 +9,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class DoubleJump extends JavaPlugin{
 
 	
-	//Testing stuffz
+	//Testing stuff
 	public void onEnable(){
 		PluginDescriptionFile descFile = getDescription();
 		Logger logger = getLogger();
