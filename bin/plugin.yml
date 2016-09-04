@@ -1,0 +1,7 @@
+main: com.panjaco.doublejump.DoubleJump
+version: 1.0.0
+author: iPanja
+name: Double Jump
+permissions:
+  doublejump.doublejump:
+    description: The ability to double jump
